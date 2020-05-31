@@ -38,7 +38,7 @@
       "website": "https://www.technovert.com",
       "startDate": "2020-01-20",
       "endDate": "",
-      "summary": "Built web apps using ASP.NET Core, C#, React.JS, EF Core, SQL Server, JavaScript, TypeScript, RESTful APIs, and HTML/CSS/SCSS. Worked on implementing design patterns and best practices in writing efficient, readable and extensible code.",
+      "summary": "Built web apps using ASP.NET Core, React.JS, TypeScript and RESTful APIs. Implemented design patterns and best practices by writing efficient, readable and extensible code.",
       "highlights": []
     }
   ],
@@ -128,10 +128,6 @@
     {
       "name": "Travel bug",
       "x_icon": "fa-globe-africa"
-    },
-    {
-      "name": "Cat lover",
-      "x_icon": "fa-cat"
     },
     {
       "name": "Foodie",

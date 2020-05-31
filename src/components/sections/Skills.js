@@ -24,8 +24,8 @@ function Skills() {
                 }, {})}
             />
           </div>
-          <div className="column is-6">
-            <div className="row is-6">
+          <div className="column is-6 right">
+            <div className="column is-12">
               <div className="has-text-centered">
                 <span className="icon has-text-danger">
                   <i className="fas fa-3x fa-laptop-code"></i>
@@ -41,7 +41,7 @@ function Skills() {
                   }, {})}
               />
             </div>
-            <div className="row is-6" style={{margin: "4% 0 0 0"}}>
+            <div className="column is-12" >
               <div className="has-text-centered">
                 <span className="icon has-text-danger">
                   <i className="fas fa-3x fa-laptop-code"></i>
