@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Ruthvik Kadiyala",
+    "label": "Software Developer",
+    "picture": "images/ruthvik.png",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "I am a fresh graduate looking for exciting oppurtunities. Currently I’m working as an intern exploring the Full Stack World. I’m interested in developing all sorts of front-end and back-end applications.",
+    "location": {
+      "country": "India",
+      "countryCode": "IN",
+      "region": "Hyderabad"
+    },
+    "profiles": [
+      {
+        "network": "DEV Community",
+        "username": "ruthvik179",
+        "url": "https://dev.to/ruthvik179",
+        "x_icon":"fab fa-2x fa-dev"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ruthvik179",
+        "url": "https://www.linkedin.com/in/ruthvik179",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "ruthvik179",
+        "url": "https://github.com/ruthvik179",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Technovert",
+      "position": "Software Development Intern",
+      "website": "https://www.technovert.com",
+      "startDate": "2020-01-20",
+      "endDate": "",
+      "summary": "Built web apps using ASP.NET Core, C#, React.JS, EF Core, SQL Server, JavaScript, TypeScript, RESTful APIs, and HTML/CSS/SCSS. Worked on implementing design patterns and best practices in writing efficient, readable and extensible code.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hyderabad Institute of Technology and Management",
+      "area": "Computer Science",
+      "studyType": "Bachelor Of Technology",
+      "startDate": "2016-06-01",
+      "endDate": "2020-07-01",
+      "courses": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Object Oriented Programming",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Design Patterns",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "REST API",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "SQLServer",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "C#",
+      "level": "Advanced",
+      "keywords": ["Programming Languages"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": ["Programming Languages"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": ["Programming Languages"]
+    },
+    {
+      "name": "ASP.NET Core",
+      "level": "Intermediate",
+      "keywords": ["Frameworks"]
+    },
+    {
+      "name": "React.JS",
+      "level": "Intermediate",
+      "keywords": ["Frameworks"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Telugu",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent speaker"
+    }
+    
+  ],
+  "interests": [
+    {
+      "name": "Travel bug",
+      "x_icon": "fa-globe-africa"
+    },
+    {
+      "name": "Cat lover",
+      "x_icon": "fa-cat"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Live in the now",
+      "x_icon": "fa-brain"
+    }
+  ]
+}
