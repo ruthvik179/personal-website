@@ -11,7 +11,7 @@ The personal information on the website is populated from a json file that follo
 
 1. Clone the repo:
 ```console
-> git clone https://github.com/jcoelho93/personal-website.git
+> git clone https://github.com/ruthvik179/personal-website.git
 ```
 
 2. Update the *resume.json* with your personal information (check [JSON Resume](https://jsonresume.org/))
