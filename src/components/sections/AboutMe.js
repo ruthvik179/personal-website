@@ -15,7 +15,7 @@ function AboutMe() {
             className="is-rounded"
           />
         </figure>
-        <p className="subtitle is-4 has-text-white has-text-weight-bold">
+        <p className="subtitle is-4 has-text-white has-text-weight-bold greeting">
           {Resume.basics.x_title}
         </p>
         <p className="subtitle is-5 has-text-white has-text-weight-light summary-text">

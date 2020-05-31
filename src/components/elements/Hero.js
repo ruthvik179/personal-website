@@ -15,6 +15,7 @@ function Hero() {
           <h2 className="subtitle">
             {Resume.basics.location.region}, {Resume.basics.location.country}
           </h2>
+          <button onClick={ () => window.open(require('../../static/Ruthvik_Kadiyala_Resume.pdf'))} class="button is-danger" download>Resume <i className="fas fa-download"></i> </button>
         </div>
       </div>
       <div className="hero-foot" style={{ paddingBottom: "20px" }}>
@@ -44,3 +45,4 @@ function Hero() {
 }
 
 export default Hero;
+

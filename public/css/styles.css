@@ -34,7 +34,7 @@ a:hover{
     color: #ff3860 !important;
     cursor: none;
 }
-p{
+.greeting{
     margin: 1%;
 }
 .timeline-content .title{
@@ -42,4 +42,10 @@ p{
 }
 .column.is-6.right{
     padding: 0;
+}
+button{
+    font-weight: bolder;
+}
+button svg{
+    margin: 7%;
 }
