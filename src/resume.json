@@ -63,11 +63,6 @@
   ],
   "skills": [
     {
-      "name": "SQL",
-      "level": "Advanced",
-      "keywords": ["Software Developer"]
-    },
-    {
       "name": "Data Integration",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
@@ -95,6 +90,11 @@
     {
       "name": "Oracle Analytics Cloud",
       "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "SQL",
+      "level": "Advanced",
       "keywords": ["Programming Languages"]
     },
     {
