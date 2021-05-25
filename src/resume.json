@@ -34,6 +34,15 @@
   "work": [
     {
       "company": "Technovert",
+      "position": "Data Analyst",
+      "website": "https://www.technovert.com",
+      "startDate": "2020-08-05",
+      "endDate": "",
+      "summary": "Built web apps using ASP.NET Core, React.JS, TypeScript and RESTful APIs. Implemented design patterns and best practices by writing efficient, readable and extensible code.",
+      "highlights": []
+    },
+    {
+      "company": "Technovert",
       "position": "Intern - Data & Analytics",
       "website": "https://www.technovert.com",
       "startDate": "2020-01-20",
@@ -41,15 +50,6 @@
       "summary": "Built web apps using ASP.NET Core, React.JS, TypeScript and RESTful APIs. Implemented design patterns and best practices by writing efficient, readable and extensible code.",
       "highlights": []
     },
-    {
-      "company": "Technovert",
-      "position": "Data Analyst",
-      "website": "https://www.technovert.com",
-      "startDate": "2020-08-05",
-      "endDate": "",
-      "summary": "Built web apps using ASP.NET Core, React.JS, TypeScript and RESTful APIs. Implemented design patterns and best practices by writing efficient, readable and extensible code.",
-      "highlights": []
-    }
   ],
   "education": [
     {
