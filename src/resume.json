@@ -3,6 +3,7 @@
     "name": "Ruthvik Kadiyala",
     "label": "Data Analyst",
     "picture": "images/ruthvik.png",
+    "x_pictureFallback": "images/cover10.jpg",
     "x_title": "Hey There! Glad you're here",
     "summary": "I am a fresh graduate looking for exciting oppurtunities. Currently I’m working as an intern exploring the Full Stack World. I’m interested in developing all sorts of front-end and back-end applications.",
     "location": {
