@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ruthvik Kadiyala",
-    "label": "Software Developer",
+    "label": "Data Analyst",
     "picture": "images/ruthvik.png",
     "x_title": "Hey There! Glad you're here",
     "summary": "I am a fresh graduate looking for exciting oppurtunities. Currently I’m working as an intern exploring the Full Stack World. I’m interested in developing all sorts of front-end and back-end applications.",
@@ -34,9 +34,18 @@
   "work": [
     {
       "company": "Technovert",
-      "position": "Software Development Intern",
+      "position": "Intern - Data & Analytics",
       "website": "https://www.technovert.com",
       "startDate": "2020-01-20",
+      "endDate": "",
+      "summary": "Built web apps using ASP.NET Core, React.JS, TypeScript and RESTful APIs. Implemented design patterns and best practices by writing efficient, readable and extensible code.",
+      "highlights": []
+    },
+    {
+      "company": "Technovert",
+      "position": "Data Analyst",
+      "website": "https://www.technovert.com",
+      "startDate": "2020-08-05",
       "endDate": "",
       "summary": "Built web apps using ASP.NET Core, React.JS, TypeScript and RESTful APIs. Implemented design patterns and best practices by writing efficient, readable and extensible code.",
       "highlights": []
@@ -54,47 +63,47 @@
   ],
   "skills": [
     {
-      "name": "Object Oriented Programming",
+      "name": "SQL",
       "level": "Advanced",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Design Patterns",
+      "name": "Data Integration",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Git",
+      "name": "Data Visualization",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "REST API",
-      "level": "Advanced",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "Unit Testing",
+      "name": "SQL Server Integration Services",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "SQLServer",
+      "name": "PowerBI",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Oracle Data Integrator",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Oracle Analytics Cloud",
+      "level": "Intermediate",
+      "keywords": ["Programming Languages"]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": ["Programming Languages"]
     },
     {
       "name": "C#",
-      "level": "Advanced",
-      "keywords": ["Programming Languages"]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": ["Programming Languages"]
-    },
-    {
-      "name": "TypeScript",
       "level": "Intermediate",
       "keywords": ["Programming Languages"]
     },
