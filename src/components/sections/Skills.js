@@ -10,7 +10,7 @@ function Skills() {
         <div className="columns">
           <div className="column is-6">
             <div className="has-text-centered">
-              <span className="icon has-text-danger">
+              <span className="icon has-text-link">
                 <i className="fas fa-3x fa-laptop-code"></i>
               </span>
               <h2 className="title is-5">Software Development</h2>
@@ -27,7 +27,7 @@ function Skills() {
           <div className="column is-6 right">
             <div className="column is-12">
               <div className="has-text-centered">
-                <span className="icon has-text-danger">
+                <span className="icon has-text-link">
                   <i className="fas fa-3x fa-laptop-code"></i>
                 </span>
                 <h2 className="title is-5">Languages</h2>
@@ -43,7 +43,7 @@ function Skills() {
             </div>
             <div className="column is-12" >
               <div className="has-text-centered">
-                <span className="icon has-text-danger">
+                <span className="icon has-text-link">
                   <i className="fas fa-3x fa-laptop-code"></i>
                 </span>
                 <h2 className="title is-5">Frameworks</h2>
