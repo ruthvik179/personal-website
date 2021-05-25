@@ -1,187 +1,121 @@
 {
   "basics": {
-    "name": "José Coelho",
-    "label": "Software Engineer",
-    "picture": "images/jcoelho.webp",
-    "x_pictureFallback": "images/jcoelho.jpg",
+    "name": "Ruthvik Kadiyala",
+    "label": "Data Analyst",
+    "picture": "images/ruthvik.png",
     "x_title": "Hey There! Glad you're here",
-    "summary": "Going on 5 years of experience in IT. Currently I’m working as a developer exploring the DevOps world. I’m interested in service management, all sorts of automation and developing front-end and back-end applications.",
+    "summary": "I am a fresh graduate looking for exciting oppurtunities. Currently I’m working as an intern exploring the Full Stack World. I’m interested in developing all sorts of front-end and back-end applications.",
     "location": {
-      "country": "Portugal",
-      "countryCode": "PT",
-      "region": "Porto"
+      "country": "India",
+      "countryCode": "IN",
+      "region": "Hyderabad"
     },
     "profiles": [
       {
         "network": "DEV Community",
-        "username": "jcoelho",
-        "url": "https://dev.to/jcoelho",
+        "username": "ruthvik179",
+        "url": "https://dev.to/ruthvik179",
         "x_icon":"fab fa-2x fa-dev"
       },
       {
         "network": "LinkedIn",
-        "username": "josecoelho93",
-        "url": "https://www.linkedin.com/in/josecoelho93",
+        "username": "ruthvik179",
+        "url": "https://www.linkedin.com/in/ruthvik179",
         "x_icon": "fab fa-2x fa-linkedin"
       },
       {
         "network": "GitHub",
-        "username": "jcoelho93",
-        "url": "https://github.com/jcoelho93",
+        "username": "ruthvik179",
+        "url": "https://github.com/ruthvik179",
         "x_icon": "fab fa-2x fa-github"
       }
     ]
   },
   "work": [
     {
-      "company": "feedzai",
-      "position": "Software Engineer",
-      "website": "https://feedzai.com",
-      "startDate": "2021-04-26",
+      "company": "Technovert",
+      "position": "Data Analyst",
+      "website": "https://www.technovert.com",
+      "startDate": "2020-08-05",
       "endDate": "",
-      "summary": "The first startup in my professional path, feedzai - a Unicorn 🦄 - fighting financial crime and fraude",
+      "summary": "Built web apps using ASP.NET Core, React.JS, TypeScript and RESTful APIs. Implemented design patterns and best practices by writing efficient, readable and extensible code.",
       "highlights": []
     },
     {
-      "company": "Self-employed",
-      "position": "Software development consultant",
-      "website": "https://jcoelho93.netlify.com",
-      "startDate": "2021-01-15",
+      "company": "Technovert",
+      "position": "Intern - Data & Analytics",
+      "website": "https://www.technovert.com",
+      "startDate": "2020-01-20",
       "endDate": "",
-      "summary": "Started working for myself, providing expertise on software development and DevOps culture and best practices for international startups.",
-      "highlights": []
-    },
-    {
-      "company": "Bosch",
-      "position": "DevOps Engineer for automated driving",
-      "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
-      "endDate": "2020-10-10",
-      "summary": "Joined the Athena project, a Bosch & Daimler effort to bring a level 4 autonomous car to the streets.",
-      "highlights": []
-    },
-    {
-      "company": "Asseco PST",
-      "position": "DevOps Engineer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2018-04-01",
-      "endDate": "2019-08-30",
-      "summary": "Joined Asseco PST DevOps team to help them deliver happiness to their customers",
-      "highlights": []
-    },
-    {
-      "company": "Asseco PST",
-      "position": "Backend Developer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2017-08-16",
-      "endDate": "",
-      "summary": "Started my first professional developer experience as a Backend Developer for Asseco PST",
-      "highlights": []
-    },
-    {
-      "company": "European GNSS Agency",
-      "position": "IT Support Technician",
-      "website": "https://www.gsa.europea.eu",
-      "startDate": "2016-05-01",
-      "endDate": "",
-      "summary": "Moved to Prague, Czech Republic to intern for the European Commission helping them build one of the biggest european projects, Galileo Satellite System",
-      "highlights": []
-    },
-    {
-      "company": "Empresa de Electricidade da Madeira",
-      "position": "IT Support Technician",
-      "website": "https://www.eem.pt",
-      "startDate": "2015-03-01",
-      "endDate": "",
-      "summary": "My first real work experience. Interning as an IT Support Technician I was able to learn and explore way more than the workings of a big IT Infrastructure. I got to work with PowerShell scripting, PHP and email marketing.",
+      "summary": "Built web apps using ASP.NET Core, React.JS, TypeScript and RESTful APIs. Implemented design patterns and best practices by writing efficient, readable and extensible code.",
       "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Madeira",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2011-09-15",
-      "endDate": "2019-06-07",
-      "courses": [
-        "Object Oriented Programming",
-        "Database Management Systems",
-        "Operating systems and computers architectures",
-        "Requirements Engineering"
-      ]
+      "institution": "Hyderabad Institute of Technology and Management",
+      "area": "Computer Science",
+      "studyType": "Bachelor Of Technology",
+      "startDate": "2016-06-01",
+      "endDate": "2020-07-01",
+      "courses": ""
     }
   ],
   "skills": [
     {
-      "name": "Jenkins",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Continuous Integration",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Scripting",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Containers",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Cloud",
-      "level": "Basic",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Troubleshooting",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Infrastructure as Code",
-      "level": "Intermediate",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Object Oriented Programming",
-      "level": "Advanced",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "Design Patterns",
+      "name": "Data Integration",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Git",
+      "name": "Data Visualization",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "REST API",
+      "name": "SQL Server Integration Services",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "PowerBI",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Oracle Data Integrator",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Oracle Analytics Cloud",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "SQL",
       "level": "Advanced",
-      "keywords": ["Software Developer"]
+      "keywords": ["Programming Languages"]
     },
     {
-      "name": "Unit Testing",
+      "name": "Python",
       "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "keywords": ["Programming Languages"]
     },
     {
-      "name": "MySQL",
+      "name": "C#",
       "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "keywords": ["Programming Languages"]
     },
     {
-      "name": "MongoDB",
+      "name": "ASP.NET Core",
       "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "keywords": ["Frameworks"]
+    },
+    {
+      "name": "React.JS",
+      "level": "Intermediate",
+      "keywords": ["Frameworks"]
     }
   ],
   "languages": [
@@ -190,18 +124,19 @@
       "fluency": "Fluent speaker"
     },
     {
-      "language": "Portuguese",
+      "language": "Telugu",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent speaker"
     }
+    
   ],
   "interests": [
     {
       "name": "Travel bug",
       "x_icon": "fa-globe-africa"
-    },
-    {
-      "name": "Dog lover",
-      "x_icon": "fa-dog"
     },
     {
       "name": "Foodie",
